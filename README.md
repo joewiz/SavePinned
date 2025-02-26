@@ -1,7 +1,7 @@
 # SavePinned
 
 > [!NOTE]
-> This project has migrated to [save-pinned-tabs/SavePinned](https://github.com/save-pinned-tabs/SavePinned).
+> This project has migrated to [save-pinned-tabs/SavePinnedTabs](https://github.com/save-pinned-tabs/SavePinnedTabs).
 > Please visit that repository for the latest code and releases.
 > Also please visit that repository to open issues requesting features or bug fixes.
 
